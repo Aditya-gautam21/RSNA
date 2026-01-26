@@ -1,0 +1,19 @@
+# RSNA dataset
+data/
+dataset/
+rsna/
+images/
+labels/
+stage_2_test_images/
+stage_2_train_images/
+
+# Common large files
+*.dcm
+*.png
+*.jpg
+*.jpeg
+*.zip
+*.npy
+*.pt
+*.csv
+*.txt
